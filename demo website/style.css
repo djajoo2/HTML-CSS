@@ -1,0 +1,153 @@
+body{
+	width: 1432px;
+	margin:auto;
+}
+.container{
+	padding: 5px;
+	margin: 10px;
+	width: 1400px;
+	border:1px solid black;
+	border-width: 2px;
+}
+.heading{
+	padding: 5px;
+	margin: 10px;
+	width: 1368px;
+	border:1px solid black;	
+	border-width: 2px;
+	background-image: url(green.jpg);
+	background-repeat: repeat;
+}
+.heading1{
+	text-align: center;
+	text-shadow: 5px #fec104;
+	color:white; 
+}
+.menu{
+	padding: 5px;
+	margin: 10px;
+	width: 1368px;
+	border:1px solid black;
+	background-color: black;
+}
+.menu ul{
+	list-style-type: none;
+}
+.menu ul li{
+	display: inline-block;
+}
+.menu ul li a{
+	width: 100px;
+	color: white;
+	display: inline-block;
+	text-decoration: none;
+}
+.menu ul li a:hover{
+	color: #feae04;
+}
+.body{
+	float: left;
+	padding: 5px;
+	margin: 10px;
+	width: 1368px;
+	border:1px solid black;
+	border-width: 2px;
+}
+.body1{
+	float: left;
+	padding: 5px;
+	margin: 5px;
+	width: 424px;
+}
+.body11{
+	float: left;
+	display: block;
+	padding: 5px;
+	margin: 5px;
+	border:1px solid black;
+	width: 402px;
+	background-color: #aed6f1;
+	border-width: 2px;
+}
+.set{
+	background-color: darkblue;
+	color: white;
+	text-align: center;	
+}
+.detail{
+	text-align: center;
+}
+.body12{
+	float: left;
+	display: block;
+	padding: 5px;
+	margin: 5px;
+	border:1px solid black;
+	width: 402px;
+	background-color: #aed6f1;
+	border-width: 2px;
+}
+.body13{
+	float: left;
+	display: block;
+	padding: 5px;
+	margin: 5px;
+	border:1px solid black;
+	width: 402px;
+	background-color: #aed6f1;
+	border-width: 2px;
+}
+.body2{
+	float: right;
+	padding: 5px;
+	margin: 5px;
+	width:900px;
+}
+.body21{
+	float: right;
+	display: block;
+	padding: 5px;
+	margin: 5px;
+	border:1px solid black;
+	width:878px;	
+	border-width: 2px;
+}
+.body22{
+	float: left;
+	padding: 5px;
+	margin: 5px;
+	border:1px solid black;
+	width:878px;
+	border-width: 2px;
+}
+.body221{
+	float: left;
+	padding: 5px;
+	margin: 5px;
+	border:1px solid black;
+	width:417px;
+	background-image: url(black.jpg);
+	color: white;
+}
+.body222{
+	float: right;
+	padding: 5px;
+	margin: 5px;
+	border:1px solid black;
+	width:417px;
+	background-image: url(green1.jpg);
+	color: white;
+}
+.footer{
+	clear: both;
+	padding: 5px;
+	margin: 10px;
+	width: 1368px;
+	border:1px solid black;
+	background-color: #d0d3d4;
+	border-radius: 10px;
+	border-width: 2px;
+}
+h2{
+	text-align: center;
+}
